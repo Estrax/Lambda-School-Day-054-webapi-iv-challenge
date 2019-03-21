@@ -2,6 +2,9 @@
 
 In this challenge, you will **deploy** an API of your choosing to `heroku`.
 
+Backend: [Link to deployed API - users route](https://ls-day054-api.herokuapp.com/api/users)
+Frontend: [Link to deployed client](https://ls-day-054-client.netlify.com)
+
 ## Instructions
 
 You are allowed, and **encouraged**, to collaborate with other peers. Please follow the twenty-minute rule, before seeking support from your PM and Instructor.

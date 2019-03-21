@@ -1,1 +1,1 @@
-export const API_URL = 'http://localhost:6500/api';
+export const API_URL = 'https://ls-day054-api.herokuapp.com/api';
